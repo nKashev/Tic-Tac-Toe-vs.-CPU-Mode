@@ -1,0 +1,44 @@
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe.config
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.pdb
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.csprojResolveAssemblyReference.cache
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\MainWindow.baml
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\MainWindow.g.cs
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\App.g.cs
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF_MarkupCompile.cache
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.g.resources
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.Properties.Resources.resources
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.GenerateResource.Cache
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.exe
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.pdb
+c:\users\sicksta\documents\visual studio 2013\Projects\TicTacToeWPF\TicTacToeWPF\obj\Debug\StyleDic.baml
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe.config
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\bin\Debug\TicTacToeWPF.pdb
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\TicTacToeWPF.csprojAssemblyReference.cache
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\MainWindow.baml
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\StyleDic.baml
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\App.g.cs
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\TicTacToeWPF_MarkupCompile.cache
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\TicTacToeWPF.g.resources
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\TicTacToeWPF.Properties.Resources.resources
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.GenerateResource.cache
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\TicTacToeWPF.exe
+C:\Users\123\source\repos\tictactoe-wpf-second-edition\tictactoe-wpf-master\TicTacToeWPF\obj\Debug\TicTacToeWPF.pdb
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe.config
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\bin\Debug\TicTacToeWPF.pdb
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\TicTacToeWPF.csprojAssemblyReference.cache
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\MainWindow.baml
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\StyleDic.baml
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\App.g.cs
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\TicTacToeWPF_MarkupCompile.cache
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\TicTacToeWPF.g.resources
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\TicTacToeWPF.Properties.Resources.resources
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.GenerateResource.cache
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\TicTacToeWPF.exe
+C:\Users\123\source\repos\TicTacToe-AI\TicTacToeWPF\obj\Debug\TicTacToeWPF.pdb
